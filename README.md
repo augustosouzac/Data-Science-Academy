@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augusto Cavalcante</h1>
-<h3 align="center">A passionate Data Scientis from Brazil</h3>
+<h3 align="center">A passionate Data Scientist from Brazil</h3>
 
 - 🔭 I’m currently working on **DSA Projects**
 
