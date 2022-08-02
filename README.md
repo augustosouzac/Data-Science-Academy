@@ -1,4 +1,4 @@
-<h1>Trata-se de um projeto da Formação Cientista de Dados da Data Science Academy.</h1>
+<h1>Trata-se de um projeto da Formação Cientista de Dados da Data Science Academy</h1>
 
 <h1 align="center">Hi 👋, I'm Augusto Cavalcante</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
